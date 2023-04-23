@@ -1,2 +1,2 @@
 # java2
-# this is simple java project
+# this is simple java 
